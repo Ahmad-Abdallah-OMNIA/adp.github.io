@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "Sitecore"
-    ]
+    ],
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///f%3A/Work/Omina/Projects/documentation/my-website/.github/workflows/deploy.yml"
+    }
 }
