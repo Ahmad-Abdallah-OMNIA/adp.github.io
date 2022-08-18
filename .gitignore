@@ -10,7 +10,6 @@
 
 # dotenv environment variables file
 .env
-.github
 # Misc
 .DS_Store
 .env.local
