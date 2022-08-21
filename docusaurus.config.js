@@ -10,7 +10,7 @@ const config = {
   tagline: 'All what you need to manage AD Ports Sitecore CMS',
   url: 'https://adp.github.io',
   baseUrl: '/adp.github.io/',
-  deploymentBranch: 'deploy',
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
